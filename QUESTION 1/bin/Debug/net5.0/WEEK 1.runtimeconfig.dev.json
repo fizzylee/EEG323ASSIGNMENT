@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Oyedepo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Oyedepo\\.nuget\\packages"
+    ]
+  }
+}

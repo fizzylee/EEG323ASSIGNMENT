@@ -1,0 +1,16 @@
+C:\Users\Oyedepo\Desktop\Tutorial\WEEK 1\bin\Debug\net5.0\WEEK 1.exe
+C:\Users\Oyedepo\Desktop\Tutorial\WEEK 1\bin\Debug\net5.0\WEEK 1.deps.json
+C:\Users\Oyedepo\Desktop\Tutorial\WEEK 1\bin\Debug\net5.0\WEEK 1.runtimeconfig.json
+C:\Users\Oyedepo\Desktop\Tutorial\WEEK 1\bin\Debug\net5.0\WEEK 1.runtimeconfig.dev.json
+C:\Users\Oyedepo\Desktop\Tutorial\WEEK 1\bin\Debug\net5.0\WEEK 1.dll
+C:\Users\Oyedepo\Desktop\Tutorial\WEEK 1\bin\Debug\net5.0\ref\WEEK 1.dll
+C:\Users\Oyedepo\Desktop\Tutorial\WEEK 1\bin\Debug\net5.0\WEEK 1.pdb
+C:\Users\Oyedepo\Desktop\Tutorial\WEEK 1\obj\Debug\net5.0\WEEK 1.csproj.AssemblyReference.cache
+C:\Users\Oyedepo\Desktop\Tutorial\WEEK 1\obj\Debug\net5.0\WEEK 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oyedepo\Desktop\Tutorial\WEEK 1\obj\Debug\net5.0\WEEK 1.AssemblyInfoInputs.cache
+C:\Users\Oyedepo\Desktop\Tutorial\WEEK 1\obj\Debug\net5.0\WEEK 1.AssemblyInfo.cs
+C:\Users\Oyedepo\Desktop\Tutorial\WEEK 1\obj\Debug\net5.0\WEEK 1.csproj.CoreCompileInputs.cache
+C:\Users\Oyedepo\Desktop\Tutorial\WEEK 1\obj\Debug\net5.0\WEEK 1.dll
+C:\Users\Oyedepo\Desktop\Tutorial\WEEK 1\obj\Debug\net5.0\ref\WEEK 1.dll
+C:\Users\Oyedepo\Desktop\Tutorial\WEEK 1\obj\Debug\net5.0\WEEK 1.pdb
+C:\Users\Oyedepo\Desktop\Tutorial\WEEK 1\obj\Debug\net5.0\WEEK 1.genruntimeconfig.cache

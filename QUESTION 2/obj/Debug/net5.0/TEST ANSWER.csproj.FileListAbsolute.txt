@@ -1,0 +1,16 @@
+C:\Users\Oyedepo\Desktop\TEST\TEST ANSWER\bin\Debug\net5.0\TEST ANSWER.exe
+C:\Users\Oyedepo\Desktop\TEST\TEST ANSWER\bin\Debug\net5.0\TEST ANSWER.deps.json
+C:\Users\Oyedepo\Desktop\TEST\TEST ANSWER\bin\Debug\net5.0\TEST ANSWER.runtimeconfig.json
+C:\Users\Oyedepo\Desktop\TEST\TEST ANSWER\bin\Debug\net5.0\TEST ANSWER.runtimeconfig.dev.json
+C:\Users\Oyedepo\Desktop\TEST\TEST ANSWER\bin\Debug\net5.0\TEST ANSWER.dll
+C:\Users\Oyedepo\Desktop\TEST\TEST ANSWER\bin\Debug\net5.0\ref\TEST ANSWER.dll
+C:\Users\Oyedepo\Desktop\TEST\TEST ANSWER\bin\Debug\net5.0\TEST ANSWER.pdb
+C:\Users\Oyedepo\Desktop\TEST\TEST ANSWER\obj\Debug\net5.0\TEST ANSWER.csproj.AssemblyReference.cache
+C:\Users\Oyedepo\Desktop\TEST\TEST ANSWER\obj\Debug\net5.0\TEST ANSWER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oyedepo\Desktop\TEST\TEST ANSWER\obj\Debug\net5.0\TEST ANSWER.AssemblyInfoInputs.cache
+C:\Users\Oyedepo\Desktop\TEST\TEST ANSWER\obj\Debug\net5.0\TEST ANSWER.AssemblyInfo.cs
+C:\Users\Oyedepo\Desktop\TEST\TEST ANSWER\obj\Debug\net5.0\TEST ANSWER.csproj.CoreCompileInputs.cache
+C:\Users\Oyedepo\Desktop\TEST\TEST ANSWER\obj\Debug\net5.0\TEST ANSWER.dll
+C:\Users\Oyedepo\Desktop\TEST\TEST ANSWER\obj\Debug\net5.0\ref\TEST ANSWER.dll
+C:\Users\Oyedepo\Desktop\TEST\TEST ANSWER\obj\Debug\net5.0\TEST ANSWER.pdb
+C:\Users\Oyedepo\Desktop\TEST\TEST ANSWER\obj\Debug\net5.0\TEST ANSWER.genruntimeconfig.cache
